@@ -16,7 +16,7 @@
       },
       {
           "q": "test",
-          "app": "CONFLUENCE_CLOUD",
+          "source": "CONFLUENCE_CLOUD",
           "title": "Document Title Ut laoreet viverra arcu eget",
           "text": "Integer tellus dolor, vestibulum non risus eu, tristique interdum nunc. Etiam pharetra, neque non venenatis pharetra, arcu neque consequat felis, a fringilla purus neque ac purus. Ut sit amet erat non purus interdum egestas. Vivamus elementum tincidunt aliquet. Maecenas non aliquet sem, vel lacinia dolor.",
           "url": "www.hostname.com/link/to/the/actual/document"
